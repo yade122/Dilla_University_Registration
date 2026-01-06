@@ -80,3 +80,31 @@ Group project members
  License
 
 This project is developed for educational purposes at Dilla University
+The Dilla University Registration System is a Java-based application designed to manage student registration processes.
+It helps students register courses and allows administrators to monitor and manage registration data.
+
+This project is developed as a group assignment for academic purposes at Dilla University.
+
+Features
+
+Student registration
+
+Course enrollment
+
+Admin monitoring
+
+Client–server communication
+
+Technologies Used
+
+Java
+
+Socket Programming
+
+Multithreading
+
+Git & GitHub
+
+How to Run
+
+Clone the repository, run the server first, then start the client application.
