@@ -79,8 +79,4 @@ Group project members
                              6. Tolosa Zewde………………………….5148/23
  License
 
-This project is developed for educational purposes at Dilla University.
-
-
-
-Just tell me 👍
+This project is developed for educational purposes at Dilla University
